@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  horario: 2018-03-07
+  salon: 
+  cupos: 
+  Materia: one
+
+two:
+  horario: 2018-03-07
+  salon: 
+  cupos: 
+  Materia: two

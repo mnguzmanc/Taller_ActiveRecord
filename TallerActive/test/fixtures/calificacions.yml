@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  corte1: 
+  corte2: 
+  corte3: 
+  notafinal: 
+  estudiante: one
+
+two:
+  corte1: 
+  corte2: 
+  corte3: 
+  notafinal: 
+  estudiante: two

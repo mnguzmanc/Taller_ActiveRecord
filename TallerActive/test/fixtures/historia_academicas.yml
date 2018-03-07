@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  planEstudio: MyString
+  papa: 
+  estudiante: one
+
+two:
+  planEstudio: MyString
+  papa: 
+  estudiante: two
